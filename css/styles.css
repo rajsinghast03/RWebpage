@@ -57,7 +57,7 @@ html{
 }
 #home::before{
     content: "";
-    background:url('Images/Home_Image.jpg') no-repeat center center/cover;
+    background:url('./Images/Home_Image.jpg') no-repeat center center/cover;
     position:absolute;
     height: 726px;
     width: 100%;
