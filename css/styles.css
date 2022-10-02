@@ -110,7 +110,7 @@ html{
 #client-section::before{
     content: "";
     position: absolute;
-    background:url('/RWebpage/main/Images/clientsss.jpg') no-repeat center center/cover;
+    background:url('https://github.com/rajsinghast03/RWebpage/blob/main/Images/clientsss.jpg') no-repeat center center/cover;
     height: 340px;
     width: 100%;
     opacity: 0.7;
@@ -123,7 +123,7 @@ position: relative;
 #contact::before{
     content: "";
     position: absolute;
-    background: url('/RWebpage/main/Images/query.jpg') no-repeat center center/cover;
+    background: url('https://github.com/rajsinghast03/RWebpage/blob/main/Images/query.jpg') no-repeat center center/cover;
     height: 100%;
     width: 100%;
     opacity: 0.7;
